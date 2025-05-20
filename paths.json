@@ -5,6 +5,6 @@
     "/content/eds-web-ue-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/es-web-ue-site/"
+    "/content/eds-web-ue-site/"
   ]
 }
